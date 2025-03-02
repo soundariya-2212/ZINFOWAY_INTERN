@@ -1,0 +1,350 @@
+{
+  "users": [
+    {
+      "id": "98IT66",
+      "username": "Manju",
+      "password": "564",
+      "confirmPassword": "564",
+      "email": "manju@gmail.com",
+      "department": "IT",
+      "year": "II",
+      "sec": "A",
+      "dob": "10.04.1994",
+      "category": "staff"
+    },
+    {
+      "id": "727823TUEC112",
+      "username": "bala",
+      "password": "567",
+      "confirmPassword": "567",
+      "department": "ECE",
+      "email": "bala@gmail.com",
+      "year": "I",
+      "sec": "B",
+      "dob": "1993-06-25",
+      "category": "student"
+    },
+    {
+      "id": "727823TUCS134",
+      "username": "balamanju",
+      "password": "5678",
+      "confirmPassword": "5678",
+      "department": "CSE",
+      "email": "balamanju@gmail.com",
+      "year": "I",
+      "sec": "C",
+      "dob": "2001-06-25",
+      "category": "student"
+    }
+  ],
+  "attendance": [
+    {
+      "id": "76f3",
+      "date": "2024-03-02",
+      "records": [
+        {
+          "studentId": "727823TUEC112",
+          "name": "bala",
+          "department": "ECE",
+          "year": "I",
+          "date": "2024-03-02",
+          "attendances": "Absent"
+        },
+        {
+          "studentId": "727823TUCS134",
+          "name": "balamanju",
+          "department": "CSE",
+          "year": "I",
+          "date": "2024-03-02",
+          "attendances": "Present"
+        }
+      ]
+    },
+    {
+      "id": "76f3",
+      "date": "2024-03-01",
+      "records": [
+        {
+          "studentId": "727823TUEC112",
+          "name": "bala",
+          "department": "ECE",
+          "year": "I",
+          "date": "2024-03-01",
+          "attendances": "Present"
+        },
+        {
+          "studentId": "727823TUCS134",
+          "name": "balamanju",
+          "department": "CSE",
+          "year": "I",
+          "date": "2024-03-01",
+          "attendances": "Absent"
+        }
+      ]
+    },
+    {
+      "id": "76f3",
+      "date": "2024-02-29",
+      "records": [
+        {
+          "studentId": "727823TUEC112",
+          "name": "bala",
+          "department": "ECE",
+          "year": "I",
+          "date": "2024-02-29",
+          "attendances": "Present"
+        },
+        {
+          "studentId": "727823TUCS134",
+          "name": "balamanju",
+          "department": "CSE",
+          "year": "I",
+          "date": "2024-02-29",
+          "attendances": "Present"
+        }
+      ]
+    },
+    {
+      "id": "76f3",
+      "date": "2024-02-28",
+      "records": [
+        {
+          "studentId": "727823TUEC112",
+          "name": "bala",
+          "department": "ECE",
+          "year": "I",
+          "date": "2024-02-28",
+          "attendances": "Present"
+        },
+        {
+          "studentId": "727823TUCS134",
+          "name": "balamanju",
+          "department": "CSE",
+          "year": "I",
+          "date": "2024-02-08",
+          "attendances": "Present"
+        }
+      ]
+    },
+    {
+      "id": "76f3",
+      "date": "2024-02-28",
+      "records": [
+        {
+          "studentId": "727823TUEC112",
+          "name": "bala",
+          "department": "ECE",
+          "year": "I",
+          "date": "2024-02-28",
+          "attendances": "Present"
+        },
+        {
+          "studentId": "727823TUCS134",
+          "name": "balamanju",
+          "department": "CSE",
+          "year": "I",
+          "date": "2024-02-08",
+          "attendances": "Absent"
+        }
+      ]
+    },
+    {
+      "id": "76f3",
+      "date": "2024-02-28",
+      "records": [
+        {
+          "studentId": "727823TUEC112",
+          "name": "bala",
+          "department": "ECE",
+          "year": "I",
+          "date": "2024-02-28",
+          "attendances": "Present"
+        },
+        {
+          "studentId": "727823TUCS134",
+          "name": "balamanju",
+          "department": "CSE",
+          "year": "I",
+          "date": "2024-02-28",
+          "attendances": "Absent"
+        }
+      ]
+    },
+    {
+      "id": "76f3",
+      "date": "2024-02-27",
+      "records": [
+        {
+          "studentId": "727823TUEC112",
+          "name": "bala",
+          "department": "ECE",
+          "year": "I",
+          "date": "2024-02-27",
+          "attendances": "Present"
+        },
+        {
+          "studentId": "727823TUCS134",
+          "name": "balamanju",
+          "department": "CSE",
+          "year": "I",
+          "date": "2024-02-27",
+          "attendances": "Present"
+        }
+      ]
+    },
+    {
+      "id": "76f3",
+      "date": "2024-02-26",
+      "records": [
+        {
+          "studentId": "727823TUEC112",
+          "name": "bala",
+          "department": "ECE",
+          "year": "I",
+          "date": "2024-02-26",
+          "attendances": "Present"
+        },
+        {
+          "studentId": "727823TUCS134",
+          "name": "balamanju",
+          "department": "CSE",
+          "year": "I",
+          "date": "2024-02-26",
+          "attendances": "Present"
+        }
+      ]
+    },
+    {
+      "id": "76f3",
+      "date": "2024-03-02",
+      "records": [
+        {
+          "studentId": "727823TUEC112",
+          "name": "bala",
+          "department": "ECE",
+          "year": "I",
+          "date": "2024-03-02",
+          "attendances": "Absent"
+        },
+        {
+          "studentId": "727823TUCS134",
+          "name": "balamanju",
+          "department": "CSE",
+          "year": "I",
+          "date": "2024-03-02",
+          "attendances": "Present"
+        }
+      ]
+    },
+    {
+      "id": "76f3",
+      "date": "2024-03-02",
+      "records": [
+        {
+          "studentId": "727823TUEC112",
+          "name": "bala",
+          "department": "ECE",
+          "year": "I",
+          "date": "2024-03-02",
+          "attendances": "Present"
+        },
+        {
+          "studentId": "727823TUCS134",
+          "name": "balamanju",
+          "department": "CSE",
+          "year": "I",
+          "date": "2024-03-02",
+          "attendances": "Present"
+        }
+      ]
+    },
+    {
+      "id": "76f3",
+      "date": "2024-03-02",
+      "records": [
+        {
+          "studentId": "727823TUEC112",
+          "name": "bala",
+          "department": "ECE",
+          "year": "I",
+          "date": "2024-03-02",
+          "attendances": "Absent"
+        },
+        {
+          "studentId": "727823TUCS134",
+          "name": "balamanju",
+          "department": "CSE",
+          "year": "I",
+          "date": "2024-03-02",
+          "attendances": "Present"
+        }
+      ]
+    },
+    {
+      "id": "76f3",
+      "date": "2024-03-02",
+      "records": [
+        {
+          "studentId": "727823TUEC112",
+          "name": "bala",
+          "department": "ECE",
+          "year": "I",
+          "date": "2024-03-02",
+          "attendances": "Absent"
+        },
+        {
+          "studentId": "727823TUCS134",
+          "name": "balamanju",
+          "department": "CSE",
+          "year": "I",
+          "date": "2024-03-02",
+          "attendances": "Present"
+        }
+      ]
+    },
+    {
+      "id": "76f3",
+      "date": "2024-02-25",
+      "records": [
+        {
+          "studentId": "727823TUEC112",
+          "name": "bala",
+          "department": "ECE",
+          "year": "I",
+          "date": "2024-02-25",
+          "attendances": "Present"
+        },
+        {
+          "studentId": "727823TUCS134",
+          "name": "balamanju",
+          "department": "CSE",
+          "year": "I",
+          "date": "2024-02-25",
+          "attendances": "Absent"
+        }
+      ]
+    },
+    {
+      "id": "76f3",
+      "date": "2024-03-02",
+      "records": [
+        {
+          "studentId": "727823TUEC112",
+          "name": "bala",
+          "department": "ECE",
+          "year": "I",
+          "date": "2024-03-02",
+          "attendances": "Absent"
+        },
+        {
+          "studentId": "727823TUCS134",
+          "name": "balamanju",
+          "department": "CSE",
+          "year": "I",
+          "date": "2024-03-02",
+          "attendances": "Present"
+        }
+      ]
+    }
+  ]
+}
